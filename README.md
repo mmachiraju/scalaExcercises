@@ -1,0 +1,2 @@
+# scalaExcercises
+Scala Learning
